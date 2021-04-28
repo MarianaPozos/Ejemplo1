@@ -1,0 +1,23 @@
+body{ 
+    /*colocar el color de fondo del cuerpo de mi página*/
+    background-color: aqua;
+}
+.textoCentrado{
+   text-align: center;
+   color: blue;
+   font-size:150%;
+}
+.Rojo{
+    color: red;
+}
+.TextoAlaDerecha{
+    text-align: right;
+    color: blue;
+    font-size: 250%;
+}
+.Silver{
+    background-color: silver;
+    color: blue;
+    text-align: center;
+    font-size: 150%;
+}
